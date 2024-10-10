@@ -1,6 +1,3 @@
-# casey_cochran_assignment1
- Coders Campus Assignment 1 
-Added another line to REAMD.md
 Assignment 1 starter
 
 Use this template to create Assignment1 in your own github.com site.
